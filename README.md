@@ -38,6 +38,14 @@ Open **http://localhost:5173**.
    scaling recalculates every ingredient amount client-side; steps are an
    independent checklist with progress tracking.
 
+## Usage
+
+1. Type what's in your fridge in plain language (e.g. "eggs, spinach, feta, half an onion").
+2. Hit "Get a recipe."
+3. Adjust the servings +/- to scale all ingredient amounts.
+4. Check off steps as you cook — the progress bar tracks completion.
+5. Click "Start over" to clear and try different ingredients.   
+
 ## Handling bad output
 
 This was the part I spent the most time on, per the brief:
