@@ -105,7 +105,7 @@ save/reload via localStorage.
 
 ## Time spent
 
-~[FILL IN] hours.
+~8 hours.
 
 ## Stack
 
